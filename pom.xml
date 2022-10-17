@@ -11,10 +11,9 @@
 	<version>4.7-SNAPSHOT</version>
 
 	<properties>
-		<nuxeo.version>6.0-HF42</nuxeo.version>
-		<nuxeo.cap.version>6.0</nuxeo.cap.version>
-		<nuxeo.opentoutatice.version>4.7-SNAPSHOT</nuxeo.opentoutatice.version>
-		<nuxeo.file.naming.addon.version>4.6</nuxeo.file.naming.addon.version>
+		<nuxeo.version>6.1.3</nuxeo.version>
+		<nuxeo.opentoutatice.version>4.7.42</nuxeo.opentoutatice.version>
+		<nuxeo.file.naming.addon.version>4.7.17</nuxeo.file.naming.addon.version>
 	</properties>
 
 	<modules>
@@ -70,8 +69,8 @@
 				<version>3.1</version>
 				<configuration>
 					<encoding>UTF-8</encoding>
-					<source>1.7</source>
-					<target>1.7</target>
+					<source>1.8</source>
+					<target>1.8</target>
 				</configuration>
 			</plugin>
 		</plugins>
